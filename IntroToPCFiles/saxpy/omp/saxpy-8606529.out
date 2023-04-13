@@ -1,0 +1,15 @@
+Starting SAXPY with 1 threads
+Elapsed time (s): 1.36179
+
+Starting SAXPY with 2 threads
+Elapsed time (s): 0.724255
+
+Starting SAXPY with 4 threads
+Elapsed time (s): 0.377421
+
+Starting SAXPY with 8 threads
+Elapsed time (s): 0.199671
+
+Starting SAXPY with 16 threads
+Elapsed time (s): 0.114322
+

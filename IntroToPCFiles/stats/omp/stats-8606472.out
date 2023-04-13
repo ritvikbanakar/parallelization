@@ -1,0 +1,36 @@
+Starting STATS with 1 threads
+Min of vector: 8.847564e-09
+Max of vector: 1.000000e+00
+Avg of vector: 4.999933e-01
+Elapsed time: 2.671839e+00
+
+Starting STATS with 2 threads
+Min of vector: Max of vector: 1.000000e+002.793968e-09
+
+Avg of vector: 5.000203e-01
+Elapsed time: 1.789582e+00
+
+Starting STATS with 3 threads
+Avg of vector: 4.999831e-01
+Min of vector: 2.793968e-09
+Max of vector: 1.000000e+00
+Elapsed time: 9.123160e-01
+
+Starting STATS with 4 threads
+Avg of vector: 4.999636e-01
+Max of vector: 1.000000e+00
+Min of vector: 1.862645e-09
+Elapsed time: 9.183780e-01
+
+Starting STATS with 5 threads
+Avg of vector: 4.999727e-01
+Max of vector: 1.000000e+00
+Min of vector: 1.071021e-08
+Elapsed time: 9.129210e-01
+
+Starting STATS with 6 threads
+Avg of vector: 4.999881e-01
+Max of vector: 1.000000e+00
+Min of vector: 1.536682e-08
+Elapsed time: 9.086050e-01
+

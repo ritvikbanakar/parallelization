@@ -1,0 +1,11 @@
+Starting Index Game with 8 OpenMP threads
+Some elements of M before shuffling: 
+i	j	M[i][j]
+1166	3788	8.89188e+08
+8296	15397	1.43885e+08
+The execution time is: 34.2077
+
+The same elements of M after shuffling: 
+1166	3788	1.98276e+09
+8296	15397	1.76003e+09
+
